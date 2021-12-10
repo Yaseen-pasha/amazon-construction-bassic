@@ -5,12 +5,12 @@
 .header{
     height: 85vh;
     width: 100%;
-    background: rgba(0, 0, 0, 0.5) url(../bg.jpg);
+    background: rgba(0, 0, 0, 0.5) url(bg.jpg);
     background-size: cover;
     background-blend-mode: darken;
 }
 .background{
-    background: rgba(0, 0, 0, 0.5) url(../navv.jpg);
+    background: rgba(0, 0, 0, 0.5) url(navv.jpg);
     background-size: cover;
     background-blend-mode: darken;
     position: sticky;
@@ -220,7 +220,7 @@
 .sub-header{
     height: 280px;
     width: 100%;
-    background: rgba(0, 0, 0, 0.3) url(../back.jpg);
+    background: rgba(0, 0, 0, 0.3) url(back.jpg);
     background-size: cover;
     background-blend-mode: darken;
 }
@@ -273,7 +273,7 @@
 .sub-header1{
     height: 280px;
     width: 100%;
-    background: rgba(0, 0, 0, 0.3) url(../bbc2.jpg);
+    background: rgba(0, 0, 0, 0.3) url(bbc2.jpg);
     background-size: cover;
     background-blend-mode: darken;
 }
@@ -317,7 +317,7 @@
 .sub-header2{
     height: 280px;
     width: 100%;
-    background: rgba(0, 0, 0, 0.5) url(../bbc12.jpg);
+    background: rgba(0, 0, 0, 0.5) url(bbc12.jpg);
     background-size: cover;
     background-blend-mode: darken;
 }
@@ -382,7 +382,7 @@
 .render{
     height: 43vh;
     width: 100%;
-    background: rgba(0, 0, 0, 0.3) url(../bbc20.jpg);
+    background: rgba(0, 0, 0, 0.3) url(bbc20.jpg);
     background-size: cover;
     background-blend-mode: darken;
     padding-top: 10px;
