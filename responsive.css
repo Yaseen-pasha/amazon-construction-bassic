@@ -151,7 +151,7 @@
     .header {
         height: 85vh;
         width: 100vw;
-        background: rgba(0, 0, 0, 0.4) url(../bg13.jpg);
+        background: rgba(0, 0, 0, 0.4) url(bg13.jpg);
         background-size: cover;
         background-blend-mode: darken;
     }
@@ -173,7 +173,7 @@
         display: flex;
     }
     .background {
-        background: rgba(0, 0, 0, 0.5) url(../navv.jpg);
+        background: rgba(0, 0, 0, 0.5) url(navv.jpg);
     }
     .para1 {
         padding: 0px 16px 5px 16px;
