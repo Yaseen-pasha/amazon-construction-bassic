@@ -4,7 +4,7 @@ $visitor_email = $_POST['email'];
 $number = $_POST['number'];
 $message = $_POST['message'];
 
-$email_from = 'https://yaseen-pasha.github.io/amazonconstruction/index.html';
+$email_from = 'amazonce2021@gmail.com';
 
 $email_subject = 'New Form Submission';
 
